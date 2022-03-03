@@ -1,5 +1,5 @@
 #This is 1_lab folder
----
+___
 Tasks:
 <ol>
 <li>Create virtual network on Azure</li>
@@ -9,7 +9,9 @@ Tasks:
 <li>Start nginx service</li>
 <li>Connect to nginx from windows virtual machine</li>
 </ol>
----
+
+___
+
 *Extra taska*
 -Publish 80 port on ubuntu virtual machine on Azure
 -Connect to nginx on local machine
