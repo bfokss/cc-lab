@@ -12,6 +12,8 @@ Tasks:
 
 ___
 
-*Extra taska*
--Publish 80 port on ubuntu virtual machine on Azure
--Connect to nginx on local machine
+*Extra tasks*
+<ol>
+<li>Publish 80 port on ubuntu virtual machine on Azure</li>
+<li>Connect to nginx on local machine</li>
+</ol>
