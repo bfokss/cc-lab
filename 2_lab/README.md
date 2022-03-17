@@ -1,13 +1,9 @@
-# This is 1_lab folder
+# This is 2_lab folder
 ___
 Tasks:
 <ol>
-<li>Create virtual network on Azure</li>
-<li>Create windows virtual machine on Azure</li>
-<li>Create ubuntu virtual machine on Azure</li>
-<li>Install nginx on ubuntu virtual machine</li>
-<li>Start nginx service</li>
-<li>Connect to nginx from windows virtual machine</li>
+<li>Create SQL Database on Azure</li>
+
 </ol>
 
 ___
