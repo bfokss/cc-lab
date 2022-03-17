@@ -10,6 +10,6 @@ ___
 <tbody>
 <td>1</td>
 <td>03_03_2022</td>
-<td></td>
+<td> [Lab 1](/cc-lab/1_lab/README.md) </td>
 </tbody>
 </table>
