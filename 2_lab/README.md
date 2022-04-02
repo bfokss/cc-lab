@@ -30,3 +30,14 @@ Additional informations:
         </ul> 
     </li>
 </ul>
+<br>
+
+<i>Example post:</i>
+
+<img src="screenshots/post.png">
+
+<br>
+
+<i>Example get:</i>
+
+<img src="screenshots/get.png">
