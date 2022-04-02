@@ -41,3 +41,7 @@ Additional informations:
 <i>Example get:</i>
 
 <img src="screenshots/get.png">
+
+<i>Example Azure Data Studio query result:</i>
+
+<img src="screenshots/ads_table_result.png">
