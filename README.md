@@ -19,9 +19,14 @@ ___
             <td> <a href="https://github.com/bfokss/cc-lab/tree/main/2_lab" target="_blank">Lab 2 </a> </td>
         </tr>
         <tr>
-            <td>2</td>
+            <td>3</td>
             <td>31_03_2022</td>
             <td> <a href="https://github.com/bfokss/cc-lab/tree/main/3_lab" target="_blank">Lab 3 </a> </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>14_04_2022</td>
+            <td> <a href="https://github.com/bfokss/cc-lab/tree/main/4_lab" target="_blank">Lab 4 </a> </td>
         </tr>
     </tbody>
 </table>
