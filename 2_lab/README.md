@@ -1,5 +1,5 @@
 # This is 2_lab folder
-___
+
 Tasks:
 <ol>
     <li>Create SQL Database on Azure</li>
@@ -32,16 +32,19 @@ Additional informations:
 </ul>
 <br>
 
+___
+
+
 <i>Example post:</i>
 
-<img src="screenshots/post.png">
+<img src="screenshots/post.png" width=600>
 
 <br>
 
 <i>Example get:</i>
 
-<img src="screenshots/get.png">
+<img src="screenshots/get.png" width=600>
 
 <i>Example Azure Data Studio query result:</i>
 
-<img src="screenshots/ads_table_result.png">
+<img src="screenshots/ads_table_result.png" width=600>
