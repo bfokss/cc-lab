@@ -28,5 +28,10 @@ ___
             <td>14_04_2022</td>
             <td> <a href="https://github.com/bfokss/cc-lab/tree/main/4_lab" target="_blank">Lab 4 </a> </td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>28_04_2022</td>
+            <td> <a href="https://github.com/bfokss/cc-lab/tree/main/5_lab" target="_blank">Lab 5 </a> </td>
+        </tr>
     </tbody>
 </table>
