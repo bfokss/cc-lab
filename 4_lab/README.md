@@ -16,3 +16,13 @@ Additional informations:
 ___
 
 Results:
+
+![first image](screenshots/lab1.png)
+
+![first image](screenshots/lab2.png)
+
+![first image](screenshots/lab3.png)
+
+![first image](screenshots/lab4.png)
+
+![first image](screenshots/lab5.png)
